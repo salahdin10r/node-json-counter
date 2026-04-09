@@ -1,0 +1,12 @@
+{
+  "name": "json-counter",
+  "version": "1.0.0",
+  "description": "Compteur de visites avec fichier JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
